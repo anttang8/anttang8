@@ -8,3 +8,7 @@
 /CodingExercises/CodingExercisesC++/.vs/CodingExercisesC++/v16
 /CodingExercises/CodingExercisesC++/CodingExercisesC++/CodingExercisesC++.vcxproj.user
 /CodingExercises/CodingExercisesC++/CodingExercisesC++/CodingExercisesC++.vcxproj.filters
+/CodingExercises/CodingExercisesC++/CodingExercisesC++/Debug
+*.pdb
+/CodingExercises/CodingExercisesC++/Debug
+/CodingExercises/CodingExercisesC++/packages/Microsoft.googletest.v140.windesktop.msvcstl.static.rt-dyn.1.8.1.4
